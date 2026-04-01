@@ -4,7 +4,7 @@ import filoseImg from '../assets/filose.png';
 
 const placeholders = [
   {
-    title: 'ven-portfolio',
+    title: 'vainqueurportfolio.netlify.app (search on google)',
     description: "A fully responsive and modern personal portfolio website developed as a full-stack project to showcase my skills, projects, and experience as a Software Development developer. Built using React.js for the frontend, Node.js for backend logic, and MySQL for data management. The project demonstrates strong understanding of HTML, CSS, JavaScript (ES6), component-based architecture, API integration, and responsive UI/UX design. It also highlights my ability to build scalable web applications with clean code, animations, and user-friendly interfaces.",
     tech: [
       'HTML',
